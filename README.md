@@ -13,10 +13,10 @@ I build business websites, custom web systems and admin dashboards, implement Od
 
 ### 🛠 Stack
 
-**Web:** Next.js · React · TypeScript · Node.js · Express · Tailwind CSS
-**Back end:** ASP.NET Core · C# · Entity Framework Core · Laravel · PHP · Python
-**Data:** PostgreSQL · SQL Server · MySQL · MongoDB · Prisma · Firebase
-**Mobile & more:** Flutter · Streamlit · WordPress · Odoo ERP · ZATCA e-invoicing
+- **Web:** Next.js · React · TypeScript · Node.js · Express · Tailwind CSS
+- **Back end:** ASP.NET Core · C# · Entity Framework Core · Laravel · PHP · Python
+- **Data:** PostgreSQL · SQL Server · MySQL · MongoDB · Prisma · Firebase
+- **Mobile & more:** Flutter · Streamlit · WordPress · Odoo ERP · ZATCA e-invoicing
 
 ### 📌 Featured projects
 
